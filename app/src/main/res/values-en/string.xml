@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BASE DE DATOS DE EDGAR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="numero_de_control">ID Control number:</string>
+    <string name="carrera">rum:</string>
+    <string name="semestre">semester:</string>
+    <string name="nombre">Name:</string>
+    <string name="apellidop">Last Name:</string>
+    <string name="apellidom">Mother Last Name:</string>
+
+    <string name="agregar">add</string>
+    <string name="baja">drop</string>
+    <string name="consulta">consult</string>
+    <string name="modificar">Change</string>
+    <string name="limpiar">clear</string>
+</resources>
